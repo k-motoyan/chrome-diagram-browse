@@ -1,0 +1,6 @@
+{
+  "name": "chrome diagram browse",
+  "description": "any diagram browsing extension",
+  "version": "0.1",
+  "manifest_version": 3
+}
